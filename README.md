@@ -1,4 +1,4 @@
 # My_Repo
 Public Repository,
 <br>
-changes meaning commit in GitHub.
+changes, meaning commit in GitHub.
