@@ -11,4 +11,6 @@ For add,
 1.git add file name or folder name
 1.git add .(.means add all file or folder)
 commit,changes add on github
-2.git commit -m "discription of changes"
+2.git commit -m "discription of changes" m for modified files
+we can use push command to push changes to github remote repository.
+2.
