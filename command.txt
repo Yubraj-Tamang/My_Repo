@@ -13,4 +13,6 @@ For add,
 commit,changes add on github
 2.git commit -m "discription of changes" m for modified files
 we can use push command to push changes to github remote repository.
-2.
+2.git push origin main 
+(mkdir command use to create new repository for example mkdir Folder)
+3.git init command used to create new repository.
