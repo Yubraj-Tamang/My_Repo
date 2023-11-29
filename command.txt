@@ -1,0 +1,11 @@
+for clone remote repo into local system we use following cammand:
+1.(git clone https://github.com/Yubraj-Tamang/My_Repo.git )git clone  (link of your repository)
+2. ls -a (shows all file incluing hidden files.)
+display the status of code 
+3. git status(show all current code status.)
+
+To config git in git bash
+4.git config --global user.name "name"
+5.git config --global user.email "email"
+For add,
+1.git add file name or folder name
